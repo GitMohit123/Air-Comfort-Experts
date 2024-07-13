@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51e06d80.css",
+    "main.js": "/static/js/main.c942ff0f.js",
+    "static/js/453.9226e3b5.chunk.js": "/static/js/453.9226e3b5.chunk.js",
+    "static/media/Background.png": "/static/media/Background.040a9595a5478b3fdfff.png",
+    "static/media/Gas.jpg": "/static/media/Gas.0f5b6ce1348705f3f017.jpg",
+    "static/media/WACRepair.jpg": "/static/media/WACRepair.6ad8782cb689ce4267f7.jpg",
+    "index.html": "/index.html",
+    "main.51e06d80.css.map": "/static/css/main.51e06d80.css.map",
+    "main.c942ff0f.js.map": "/static/js/main.c942ff0f.js.map",
+    "453.9226e3b5.chunk.js.map": "/static/js/453.9226e3b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51e06d80.css",
+    "static/js/main.c942ff0f.js"
+  ]
+}
